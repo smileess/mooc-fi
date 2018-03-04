@@ -1,0 +1,4 @@
+apina:monkey
+olut:beer
+oleva:below
+banaani:banana
